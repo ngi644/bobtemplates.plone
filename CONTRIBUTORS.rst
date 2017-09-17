@@ -10,7 +10,6 @@ This package is based on `bobtemplates.niteoweb <https://github.com/niteoweb/bob
 - Domen Kožar [iElectric]
 - Nejc Zupan [zupo]
 - Patrick Gerken [do3cc]
-- Timo Stollenwerk [timo]
 - Johannes Raggam [thet]
 - Sven Strack [svx]
 - Héctor Velarde [hvelarde]
